@@ -1,0 +1,6 @@
+class student
+{
+int rollno;
+string name;
+float marks;
+}
