@@ -1,6 +1,10 @@
-class student
+class Student
 {
-int rollno;
-string name;
-float marks;
+public static void main(String[] args)
+{
+int rollno = 1;
+string name ="Yugi";
+float marks = 100;
+System.out.print("Roll number : "+rollno+"\nName : "+name+"\nmarks : "+marks);
+}
 }
