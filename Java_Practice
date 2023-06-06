@@ -3,7 +3,7 @@ class Student
 public static void main(String[] args)
 {
 int rollno = 1;
-string name ="Yugi";
+String name ="Yugi";
 float marks = 100;
 System.out.print("Roll number : "+rollno+"\nName : "+name+"\nmarks : "+marks);
 }
